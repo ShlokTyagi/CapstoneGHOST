@@ -1,1 +1,1 @@
-# CapstoneGHOST
+# C20
